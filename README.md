@@ -26,18 +26,18 @@ Una aplicación interactiva para evaluar árboles de decisión con nodos de azar
 
 - Configura los nodos de azar:
 
-  1. Describe cada evento incierto
+   - Describe cada evento incierto
 
-  2. Establece probabilidades (deben sumar 1.0)
+   - Establece probabilidades (deben sumar 1.0)
 
-  3. Define valores económicos para cada resultado
+   - Define valores económicos para cada resultado
 
 - Analiza los resultados:
 
-  1. Valores esperados para cada alternativa
+   - Valores esperados para cada alternativa
 
-  2. Mejor/peor escenario posible
+   - Mejor/peor escenario posible
 
-  3. Recomendación automatizada
+   - Recomendación automatizada
 
 - Explora el diagrama del árbol generado
