@@ -21,6 +21,23 @@ Una aplicación interactiva para evaluar árboles de decisión con nodos de azar
 2. pandas>=1.5.0
 3. graphviz>=0.20
 
+
+## 🛠️ Instalación
+
+1. Clona el repositorio:
+ ```bash
+ git clone https://github.com/tu-usuario/tu-repositorio.git
+ cd tu-repositorio
+ ```
+2. Instala las dependencias
+ ```bash
+ pip install -r requirements.txt
+ ```
+3. Ejecuta la aplicación localmente
+ ```bash
+streamlit run app.py
+ ```
+
 ## 🖥️ Uso de la Aplicación
 - Define la decisión principal en el campo de texto
 
